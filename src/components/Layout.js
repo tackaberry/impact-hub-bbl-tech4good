@@ -31,11 +31,11 @@ const DivDark = styled.div`
   }
 `;
 
-export default ({ children, color, image, light }) => {
+export default ({ children, color, image, light, half }) => {
   let style = {
     width: "100vw",
     height: "100vw",
-    padding: "0 10%",
+    padding: `0 ${half ? "25%" : "10%"}`,
     backgroundColor: color,
     justifyContent: "center",
     alignItems: "center",
