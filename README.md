@@ -16,6 +16,8 @@ Slides deployed [here](http://impact-hub-bbl-tech4good.s3-website.ca-central-1.a
 
 [On Eventbrite](https://www.eventbrite.com/e/how-technology-and-the-people-behind-it-are-making-the-world-a-better-place-registration-154876155751?aff=website)
 
+[On YouTube](https://www.youtube.com/watch?v=2glz65XJmPM)
+
 ### Related
 
 - [Rebel.com](https://www.rebel.com)
